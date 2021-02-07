@@ -39,6 +39,8 @@
 <br>
 <br>
 
+<h3 align="left">Stats: </h3>
+
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srinidhibhat45&show_icons=true&theme=dark&locale=en" alt="srinidhibhat45" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinidhibhat45&theme=dark" alt="srinidhibhat45" /></p>
