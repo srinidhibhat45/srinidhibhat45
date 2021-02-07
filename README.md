@@ -37,7 +37,6 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinidhibhat45&show_icons=true&theme=dark&locale=en&layout=compact" alt="srinidhibhat45" /></p>
 
 <br>
-<br>
 
 <h3 align="left">Stats: </h3>
 
