@@ -9,17 +9,17 @@
 
 - 🔭 I’m currently working on Django Blog App
 
-- 🌱 I’m currently learning **C ++, Python, Dart**
+- 🌱 I’m currently learning: **C ++, Python, Dart**
 
-- 👨‍💻 All of my projects are available at [https://github.com/srinidhibhat45?tab=repositories](https://github.com/srinidhibhat45?tab=repositories)
+- 👨‍💻 All of my projects are available at: [https://github.com/srinidhibhat45?tab=repositories](https://github.com/srinidhibhat45?tab=repositories)
 
-- 📝 I regularly write articles on [https://sushiksha.konkanischolarship.com/blog/](https://sushiksha.konkanischolarship.com/blog/)
+- 📝 I regularly write articles on: [https://sushiksha.konkanischolarship.com/blog/](https://sushiksha.konkanischolarship.com/blog/)
 
-- 💬 Ask me about **HTML, Python**
+- 💬 Ask me about: **HTML, Python**
 
-- 📫 How to reach me **YourFatGuy on Twitter** and **shrxnxdhx on Instagram**
+- 📫 How to reach me: **YourFatGuy on Twitter** and **shrxnxdhx on Instagram**
 
-- ⚡ Fun fact  **I love Public Speaking!**
+- ⚡ Fun fact:  **I love Public Speaking!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
