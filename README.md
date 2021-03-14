@@ -7,9 +7,9 @@
 
 <p align="center"> <a href="https://twitter.com/YourFatGuy" target="blank"><img src="https://img.shields.io/twitter/follow/YourFatGuy?logo=twitter&style=for-the-badge" alt="YourFatGuy" /></a> </p>
 
-- 🔭 I’m currently working on Django Blog App
+- 🔭 I’m currently working on My portfolio Website
 
-- 🌱 I’m currently learning: **C ++, Python, Dart**
+- 🌱 I’m currently learning: **C++, Python, Dart**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/srinidhibhat45?tab=repositories](https://github.com/srinidhibhat45?tab=repositories)
 
