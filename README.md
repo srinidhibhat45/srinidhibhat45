@@ -17,7 +17,7 @@
 
 - 💬 Ask me about: **HTML, Python**
 
-- 📫 How to reach me: **YourFatGuy on Twitter** and **shrxnxdhx on Instagram**
+- 📫 How to reach me: ** Twitter:  <a href="https://twitter.com/YourFatGuy" target="_blank">@YourFatGuy</a>** and **Instagram:  <a href="https://instagram.com/shrxnxdhx" target="_blank">@shrxnxdhx</a>**
 
 - 🍕 Portfolio:  <a href="https://srinidhibhat.netlify.app/" target="_blank">Here</a>
 
