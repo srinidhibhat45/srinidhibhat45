@@ -11,15 +11,15 @@
 
 - 🌱 I’m currently learning: **C++, Python, Dart**
 
-- 👨‍💻 All of my projects are available at: [https://github.com/srinidhibhat45?tab=repositories](https://github.com/srinidhibhat45?tab=repositories)
+- 👨‍💻 All of my projects are:  <a href="https://github.com/srinidhibhat45?tab=repositories">Here</a>
 
-- 📝 I regularly write articles on: [https://sushiksha.konkanischolarship.com/blog/](https://sushiksha.konkanischolarship.com/blog/)
+- 📝 I regularly write articles on:  <a href="https://sushiksha.konkanischolarship.com/blog/">Here</a>
 
 - 💬 Ask me about: **HTML, Python**
 
 - 📫 How to reach me: **YourFatGuy on Twitter** and **shrxnxdhx on Instagram**
 
-- 🍕 Portfolio: srinidhibhat.netlify.app
+- 🍕 Portfolio:  <a href="https://srinidhibhat.netlify.app/">Here</a>
 
 - ⚡ Fun fact:  **I love Public Speaking!**
 
