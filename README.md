@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are:  <a href="https://github.com/srinidhibhat45?tab=repositories" target="_blank">Here</a>
 
-- 📝 I regularly write articles on:  <a href="https://sushiksha.konkanischolarship.com/blog/" target="_blank">Here</a>
+- 📝 I regularly write articles:  <a href="https://sushiksha.konkanischolarship.com/blog/" target="_blank">Here</a>
 
 - 💬 Ask me about: **HTML, Python**
 
