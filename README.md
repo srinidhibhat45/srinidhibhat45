@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on My portfolio Website
 
-- 🌱 I’m currently learning: **C++, Python, Dart**
+- 🌱 I’m currently learning: **C++, Python, HUGO**
 
 - 👨‍💻 All of my projects are:  <a href="https://github.com/srinidhibhat45?tab=repositories" target="_blank">Here</a>
 
