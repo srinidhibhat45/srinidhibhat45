@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/YourFatGuy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="YourFatGuy" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/srinidhi-bhat-8aaa2a147/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="srinidhi-bhat" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bhatsrinidhi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="srinidhi-bhat" height="30" width="40" /></a>
 <a href="https://instagram.com/shrxnxdhx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shrxnxdhx" height="30" width="40" /></a>
 </p>
 
