@@ -7,13 +7,13 @@
 
 <p align="center"> <a href="https://twitter.com/YourFatGuy" target="blank"><img src="https://img.shields.io/twitter/follow/YourFatGuy?logo=twitter&style=for-the-badge" alt="YourFatGuy" /></a> </p>
 
-- 🔭 I’m currently working on My portfolio Website
+- 🔭 I’m currently working on My portfolio Website, YearBook Theme
 
 - 🌱 I’m currently learning: **C++, Python, HUGO**
 
 - 👨‍💻 All of my projects are:  <a href="https://github.com/srinidhibhat45?tab=repositories" target="_blank">Here</a>
 
-- 📝 I regularly write articles:  <a href="https://sushiksha.konkanischolarship.com/blog/" target="_blank">Here</a>
+- 📝 I regularly write articles:  <a href="https://srinidhi-blogs.netlify.app/" target="_blank">Here</a>
 
 - 💬 Ask me about: **HTML, Python**
 
