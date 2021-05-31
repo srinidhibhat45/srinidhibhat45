@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Srinidhi 😉</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Shri 😉</h1>
 <h3 align="center">IT Engico</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=srinidhibhat45&label=Profile%20views&color=6694ff&style=flat-square" alt="srinidhibhat45" /> </p>
@@ -43,3 +43,11 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srinidhibhat45&show_icons=true&theme=dark&locale=en" alt="srinidhibhat45" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinidhibhat45&theme=dark" alt="srinidhibhat45" /></p>
+
+<div align="center">
+
+## Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+<br>
+</div>
+
