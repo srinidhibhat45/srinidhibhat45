@@ -23,11 +23,11 @@
 
 - ⚡ Fun fact:  **I love Public Speaking!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/YourFatGuy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="YourFatGuy" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/bhatsrinidhi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="srinidhi-bhat" height="30" width="40" /></a>
-<a href="https://instagram.com/shrxnxdhx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shrxnxdhx" height="30" width="40" /></a>
+<a href="https://twitter.com/YourFatGuy" target="blank"><img align="center" src="https://i.ibb.co/P4wygw7/2.png" alt="YourFatGuy" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/bhatsrinidhi" target="blank"><img align="center" src="https://i.ibb.co/h7q0c48/5.png" alt="srinidhi-bhat" height="40" width="40" /></a>
+<a href="https://instagram.com/shrxnxdhx" target="blank"><img align="center" src="https://i.ibb.co/Q6kjr7y/1.png" alt="shrxnxdhx" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
