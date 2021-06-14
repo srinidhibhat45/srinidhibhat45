@@ -44,6 +44,10 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinidhibhat45&theme=dark" alt="srinidhibhat45" /></p>
 
+<p align="center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=srinidhibhat45"/></p>  
+
+<p align="center"><img align="center" src="https://metrics.lecoq.io/srinidhibhat45?template=classic&lines=1&config.timezone=Asia%2FCalcutta"/></p> 
+
 <div align="center">
 
 ## Here is a random joke that'll make you laugh!
