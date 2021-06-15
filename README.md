@@ -7,9 +7,9 @@
 
 <p align="center"> <a href="https://twitter.com/YourFatGuy" target="blank"><img src="https://img.shields.io/twitter/follow/YourFatGuy?logo=twitter&style=for-the-badge" alt="YourFatGuy" /></a> </p>
 
-- 🔭 I’m currently working on My portfolio Website, YearBook Theme
+- 🔭 I’m currently working on **My portfolio Website, YearBook**
 
-- 🌱 I’m currently learning: **C++, Python, HUGO**
+- 🌱 I’m currently learning: **C++, Python, Django**
 
 - 👨‍💻 All of my projects are:  <a href="https://github.com/srinidhibhat45?tab=repositories" target="_blank">Here</a>
 
@@ -20,6 +20,8 @@
 - 📫 How to reach me:  **Twitter:  <a href="https://twitter.com/YourFatGuy" target="_blank">@YourFatGuy</a>** and **Instagram:  <a href="https://instagram.com/shrxnxdhx" target="_blank">@shrxnxdhx</a>**
 
 - 🍕 Portfolio:  <a href="https://srinidhibhat.netlify.app/" target="_blank">Here</a>
+
+- 🤵 Resume:  <a href="https://srinidhibhat.netlify.app/assets/srinidhibhat_resume_2021.pdf" target="_blank">Here</a>
 
 - ⚡ Fun fact:  **I love Public Speaking!**
 
