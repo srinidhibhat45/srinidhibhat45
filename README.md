@@ -1,5 +1,5 @@
 <h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Shri <img src="https://media.giphy.com/media/EEzGzZ743J0Hh8zxFE/giphy.gif" width="25px"> </h1>
-<h3 align="center">Graphic Designer, UI/UX Design & IT Engico</h3>
+<h3 align="center">UI/UX and Graphic Designer & IT Engico</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=srinidhibhat45&label=Profile%20views&color=6694ff&style=flat-square" alt="srinidhibhat45" /> </p>
 
