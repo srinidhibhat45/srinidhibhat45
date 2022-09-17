@@ -21,9 +21,9 @@
 
 - 🍕 Portfolio:  <a href="https://srinidhibhat.netlify.app/" target="_blank">Here</a>
 
-- 🤵 Resume:  <a href="https://srinidhibhat.netlify.app/assets/srinidhibhat_resume_2021.pdf" target="_blank">Here</a>
+- 🤵 Resume:  <a href="https://srinidhibhat.netlify.app/assets/srinidhibhat_resume_2022.pdf" target="_blank">Here</a>
 
-- ⚡ Fun fact:  **I love Public Speaking!**
+- ⚡ Fun fact:  **I love Public Speaking, BIG FOODIE!, Love Designing! and strategising.**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
