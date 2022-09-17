@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles:  <a href="https://srinidhi-blogs.netlify.app/" target="_blank">Here</a>
 
-- 💬 Ask me about: **HTML, Python**
+- 💬 Ask me about: **UI/UX Design, Graphic Designing, HTML, Python**
 
 - 📫 How to reach me:  **Twitter:  <a href="https://twitter.com/YourFatGuy" target="_blank">@YourFatGuy</a>** and **Instagram:  <a href="https://instagram.com/shrxnxdhx" target="_blank">@shrxnxdhx</a>**
 
