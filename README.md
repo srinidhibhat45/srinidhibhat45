@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **My portfolio Website, YearBook**
 
-- 🌱 I’m currently learning: **C++, Python, Django**
+- 🌱 I’m currently learning: **NodeJS, LUIS, Azure**
 
 - 👨‍💻 All of my projects are:  <a href="https://github.com/srinidhibhat45?tab=repositories" target="_blank">Here</a>
 
